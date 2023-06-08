@@ -1,0 +1,16 @@
+ nth =  1 t0 = 0.184066 sec, t1 = 0.185947 sec, diff z norm = 0.000000e+00, perf = 0.360903 Gflop/s
+ nth =  2 t0 = 0.184156 sec, t1 = 0.095623 sec, diff z norm = 0.000000e+00, perf = 0.701808 Gflop/s
+ nth =  3 t0 = 0.184056 sec, t1 = 0.068680 sec, diff z norm = 0.000000e+00, perf = 0.977123 Gflop/s
+ nth =  4 t0 = 0.183809 sec, t1 = 0.054111 sec, diff z norm = 0.000000e+00, perf = 1.240207 Gflop/s
+ nth =  5 t0 = 0.183545 sec, t1 = 0.044998 sec, diff z norm = 0.000000e+00, perf = 1.491377 Gflop/s
+ nth =  6 t0 = 0.184066 sec, t1 = 0.040181 sec, diff z norm = 0.000000e+00, perf = 1.670157 Gflop/s
+ nth =  7 t0 = 0.184157 sec, t1 = 0.038585 sec, diff z norm = 0.000000e+00, perf = 1.739250 Gflop/s
+ nth =  8 t0 = 0.184377 sec, t1 = 0.042251 sec, diff z norm = 0.000000e+00, perf = 1.588343 Gflop/s
+ nth =  9 t0 = 0.184146 sec, t1 = 0.048658 sec, diff z norm = 0.000000e+00, perf = 1.379191 Gflop/s
+ nth = 10 t0 = 0.183817 sec, t1 = 0.045624 sec, diff z norm = 0.000000e+00, perf = 1.470911 Gflop/s
+ nth = 11 t0 = 0.184982 sec, t1 = 0.043647 sec, diff z norm = 0.000000e+00, perf = 1.537535 Gflop/s
+ nth = 12 t0 = 0.183927 sec, t1 = 0.047110 sec, diff z norm = 0.000000e+00, perf = 1.424512 Gflop/s
+ nth = 13 t0 = 0.183917 sec, t1 = 0.043376 sec, diff z norm = 0.000000e+00, perf = 1.547135 Gflop/s
+ nth = 14 t0 = 0.183822 sec, t1 = 0.045841 sec, diff z norm = 0.000000e+00, perf = 1.463942 Gflop/s
+ nth = 15 t0 = 0.183366 sec, t1 = 0.045309 sec, diff z norm = 0.000000e+00, perf = 1.481135 Gflop/s
+ nth = 16 t0 = 0.183813 sec, t1 = 0.045724 sec, diff z norm = 0.000000e+00, perf = 1.467690 Gflop/s

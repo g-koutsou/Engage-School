@@ -1,0 +1,16 @@
+ nth =  1 t0 = 0.116283 sec, t1 = 0.118331 sec, norms = 8.387960e+06, 8.387960e+06, perf = 0.567129 Gflop/s
+ nth =  2 t0 = 0.116308 sec, t1 = 0.060362 sec, norms = 8.387960e+06, 8.387960e+06, perf = 1.111772 Gflop/s
+ nth =  3 t0 = 0.116222 sec, t1 = 0.041710 sec, norms = 8.387960e+06, 8.387960e+06, perf = 1.608934 Gflop/s
+ nth =  4 t0 = 0.116361 sec, t1 = 0.033959 sec, norms = 8.387960e+06, 8.387960e+06, perf = 1.976178 Gflop/s
+ nth =  5 t0 = 0.116218 sec, t1 = 0.027474 sec, norms = 8.387960e+06, 8.387960e+06, perf = 2.442617 Gflop/s
+ nth =  6 t0 = 0.116477 sec, t1 = 0.023161 sec, norms = 8.387960e+06, 8.387960e+06, perf = 2.897502 Gflop/s
+ nth =  7 t0 = 0.116278 sec, t1 = 0.020901 sec, norms = 8.387960e+06, 8.387960e+06, perf = 3.210802 Gflop/s
+ nth =  8 t0 = 0.116308 sec, t1 = 0.018711 sec, norms = 8.387960e+06, 8.387960e+06, perf = 3.586582 Gflop/s
+ nth =  9 t0 = 0.116249 sec, t1 = 0.026430 sec, norms = 8.387960e+06, 8.387960e+06, perf = 2.539127 Gflop/s
+ nth = 10 t0 = 0.116832 sec, t1 = 0.024141 sec, norms = 8.387960e+06, 8.387960e+06, perf = 2.779862 Gflop/s
+ nth = 11 t0 = 0.116413 sec, t1 = 0.022170 sec, norms = 8.387960e+06, 8.387960e+06, perf = 3.027003 Gflop/s
+ nth = 12 t0 = 0.116781 sec, t1 = 0.022881 sec, norms = 8.387960e+06, 8.387960e+06, perf = 2.932948 Gflop/s
+ nth = 13 t0 = 0.116370 sec, t1 = 0.019354 sec, norms = 8.387960e+06, 8.387960e+06, perf = 3.467423 Gflop/s
+ nth = 14 t0 = 0.116263 sec, t1 = 0.020519 sec, norms = 8.387960e+06, 8.387960e+06, perf = 3.270569 Gflop/s
+ nth = 15 t0 = 0.116444 sec, t1 = 0.026231 sec, norms = 8.387960e+06, 8.387960e+06, perf = 2.558375 Gflop/s
+ nth = 16 t0 = 0.116517 sec, t1 = 0.023950 sec, norms = 8.387960e+06, 8.387960e+06, perf = 2.802029 Gflop/s
