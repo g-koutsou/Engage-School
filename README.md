@@ -16,4 +16,7 @@ Slides and exercises used during days 1 -- 4 of the [Workshop on HPC and Data Sc
 ### Thursday, June 15th 2023
 - GPU programming with CUDA
 
+## Acknowledgements 
+
+Code segments used in these demonstrations were partly supported by project [NiceQuarks](https://castorc.cyi.ac.cy/research/projects#nicequarks) of the Cyprus Research and Innovation Foundation under contract with number EXCELLENCE/0421/0195
 
